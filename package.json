@@ -1,9 +1,13 @@
 {
   "name": "swicly",
   "displayName": "Swicly",
-  "description": "Swicly theme",
+  "description": "Swicly Dark theme",
   "version": "0.0.1",
   "publisher": "SwiclyMo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codekojo/Swicly-Dark-Theme"
+  },
   "keywords": [
     "dark theme",
     "theme",
