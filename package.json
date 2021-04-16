@@ -1,0 +1,33 @@
+{
+  "name": "swicly",
+  "displayName": "Swicly",
+  "description": "Swicly theme",
+  "version": "0.0.1",
+  "publisher": "SwiclyMo",
+  "keywords": [
+    "dark theme",
+    "theme",
+    "coder coder",
+    "Night Owl",
+    "Monokai",
+    "One Dark Pro",
+    "Red",
+    "Good theme",
+    "nice theme"
+  ],
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Swicly Mo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Swicly Mo-color-theme.json"
+      }
+    ]
+  }
+}
