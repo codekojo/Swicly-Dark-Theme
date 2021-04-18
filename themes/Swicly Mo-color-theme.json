@@ -13,7 +13,8 @@
     "sideBar.border": "#848fa5",
     "activityBar.background": "#14213d",
     "activityBar.border": "#848fa5",
-    "editorGroupHeader.tabsBackground": "#14213d"
+    "editorGroupHeader.tabsBackground": "#14213d",
+    "tab.inactiveBackground": "#284b6352"
   },
   "tokenColors": [
     {
@@ -28,7 +29,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#2479C0"
       }
     },
     {
@@ -69,7 +70,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#ffe66d"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -124,7 +125,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#b5838d"
+        "foreground": "#f1faee"
       }
     },
     {
@@ -139,7 +140,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#e88d8d"
       }
     },
     {
@@ -155,7 +156,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#c3f73a"
+        "foreground": "#1CB955"
       }
     },
     {
